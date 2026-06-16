@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update host/sitemap once the real domain is live (placeholder: ontech.co.jp)
+Sitemap: https://ontech.co.jp/sitemap.xml

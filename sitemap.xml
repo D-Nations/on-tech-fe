@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Each URL lists its hreflang alternates (xhtml:link) per Google's i18n guidance.
+     Domain is a PLACEHOLDER (ontech.co.jp). Update <loc>/<lastmod> when live. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://ontech.co.jp/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ontech.co.jp/"/>
+  </url>
+
+  <!-- Japanese -->
+  <url>
+    <loc>https://ontech.co.jp/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/ja/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/services.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/ja/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/pricing.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/ja/process.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/process.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/process.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/ja/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/ja/company.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/company.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/company.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/ja/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/contact.html"/>
+  </url>
+
+  <!-- English -->
+  <url>
+    <loc>https://ontech.co.jp/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/en/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/services.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/en/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/pricing.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/en/process.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/process.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/process.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/en/company.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/company.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/company.html"/>
+  </url>
+  <url>
+    <loc>https://ontech.co.jp/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/contact.html"/>
+  </url>
+
+</urlset>
