@@ -7,13 +7,13 @@ JavaScript, no build step. Structured so more languages can be added later.
 
 ```
 /
-├── index.html              # root: x-default language picker (no auto-redirect)
+├── index.html              # root: Japanese default home page
 ├── robots.txt
 ├── sitemap.xml             # all URLs + hreflang alternates
 ├── assets/
 │   └── css/
 │       └── style.css       # single shared stylesheet (all styling lives here)
-├── ja/                     # Japanese (default language)
+├── ja/                     # Japanese subpages + compatibility home mirror
 │   ├── index.html
 │   ├── services.html
 │   ├── pricing.html
@@ -63,7 +63,7 @@ Search the repo for `TODO` and `ontech.co.jp`:
    <link rel="alternate" hreflang="zh" href="https://ontech.co.jp/zh/…">
    ```
 4. Add the new URLs (with alternates) to `sitemap.xml`.
-5. Add a link to the language switcher (`.lang-switch`) and root `index.html`.
+5. Add a link to the language switcher (`.lang-switch`) and root home page.
 
 ## SEO / quality checklist (already in place)
 

@@ -6,17 +6,12 @@
 
   <url>
     <loc>https://ontech.co.jp/</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ontech.co.jp/"/>
   </url>
 
   <!-- Japanese -->
-  <url>
-    <loc>https://ontech.co.jp/ja/</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/"/>
-  </url>
   <url>
     <loc>https://ontech.co.jp/ja/services.html</loc>
     <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/services.html"/>
@@ -51,7 +46,7 @@
   <!-- English -->
   <url>
     <loc>https://ontech.co.jp/en/</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ontech.co.jp/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://ontech.co.jp/en/"/>
   </url>
   <url>
